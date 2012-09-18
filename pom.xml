@@ -4,8 +4,8 @@
 	<artifactId>hw0-jflannic</artifactId>
 	<version>0.0.1</version>
 	<scm>
-		<connection>scm:git:git://github.com/jamflannick/hw0-jflannic.git</connection>
-		<developerConnection>scm:git:git://github.com/jamflannick/hw0-jflannic.git</developerConnection>
+		<connection>scm:git:git@github.com:jamflannick/hw0-jflannic.git</connection>
+		<developerConnection>scm:git:git@github.com:jamflannick/hw0-jflannic.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
