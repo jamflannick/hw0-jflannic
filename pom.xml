@@ -5,7 +5,6 @@
 	<artifactId>hw0-jflannic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<url>scm:git:git://github.com/jamflannick/hw0-jflannic.git</url>
 		<connection>scm:git:git://github.com/jamflannick/hw0-jflannic.git</connection>
 		<developerConnection>scm:git:git://github.com/jamflannick/hw0-jflannic.git</developerConnection>
 	</scm>
